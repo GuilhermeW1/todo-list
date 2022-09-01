@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# ToNotes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
 
-## Available Scripts
+ <p align="center">:rocket: A small todo-list project who you can separate the nots in sections</p>
 
-In the project directory, you can run:
+### Content Table
 
-### `yarn start`
+<p>
+  <a herf="#description">Description</a>
+  <a herf="#status">Status Project</a>
+  <a herf="#requirements">Requirements</a>
+  <a herf="#run">Run Project</a>
+  <a herf="#test">Test</a>
+  <a herf="#author">Author</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Status
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h4 align="center">
+  :warning: :construction: this project is been building
+</h4>
 
-### `yarn test`
+### Requirements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this project you will have to got installed: [Git](https://git-scm.com/),
+[Node.js](https://nodejs.org/en/), And to working on in the project you may have
+to be installed some code editor like [VsCode](https://code.visualstudio.com/)
 
-### `yarn build`
+### Run
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+#clone this repository
+$git clone <>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#access the file in your terminal
+$cd todo-list
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#type in terminal
+$yarn i or $npm i
 
-### `yarn eject`
+#to run the project
+$yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Test
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For now i do`nt have test available
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### :wrench: Technologies
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+-React -TypeScrypt -StyledComponents -React Router -Firebase
 
-## Learn More
+### Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+< href="https://blog.rocketseat.com.br/author/thiago/">
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<br /> <sub><b>Guilherme Weissheimer</b></sub>
+
+Some question talk to me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)](https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeweissheimer.w1@gmail.com)](mailto:guilhermeweissheimer.w1@gmail.com)
+
+MIT License
+
+Copyright (c) <2022> <Guilherme Augusto Weissheimer>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

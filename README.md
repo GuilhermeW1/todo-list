@@ -61,8 +61,8 @@ For now i do`nt have test available
 
 Some question talk to me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)](https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeweissheimer.w1@gmail.com)](mailto:guilhermeweissheimer.w1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)](https://www.linkedin.com/in/guilherme-weissheimer-6457a0207/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeweissheimer.w1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeweissheimer.w1@gmail.com)](mailto:guilhermeweissheimer.w1@gmail.com)
 
 
 ## License

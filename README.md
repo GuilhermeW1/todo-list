@@ -31,7 +31,7 @@ to be installed some code editor like [VsCode](https://code.visualstudio.com/)
 
 ```bash
 #clone this repository
-$git clone <>
+$git clone <git@github.com:GuilhermeW1/todo-list.git>
 
 #access the file in your terminal
 $cd todo-list

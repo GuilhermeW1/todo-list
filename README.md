@@ -55,9 +55,9 @@ For now i do`nt have test available
 
 ---
 
-< href="https://blog.rocketseat.com.br/author/thiago/">
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
-<br /> <sub><b>Guilherme Weissheimer</b></sub>
+<a>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88466173?s=400&u=a39c3233258cb2be797de752d62d8965e9a0eac0&v=4" width="100px;" alt=""/>
+<br /> <sub><b>Guilherme Weissheimer</b></sub></a>
 
 Some question talk to me
 
